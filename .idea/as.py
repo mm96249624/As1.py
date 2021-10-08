@@ -13,5 +13,10 @@ import main.py
 stub = stubout.StubOutForTesting()
 stub.Set(measure_pulse, (r1, r2, r3))
 
+def test_measure_pulse():
+    return
+
+
+
 
 
